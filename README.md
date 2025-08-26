@@ -12,22 +12,28 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+* YouTube
+    * Light and Dark interfaces.
+    * Search bar and filter makes finding content easy.
+* Discord
+    * Light and Dark interfaces.
+    * Adjustable window and text size for easier vew.
+* Nintendo Switch Online App
+    * Allows viewing and accepting friend requests that link to the console.
+    * Able to view recorded games uploaded from the console onto the app.
+    
+An idea for an app that I have been wanting to make is one where people are able to find local animal shelters. The user would be able to view images of the animals in that shelter by scrolling through a list along with the description of the animal and the shelter's contact information. They would also have access to a map where the nearest shelters are displayed, which the number of shelters can change by modifying a range.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Whie creating this application, I originally wanted to create a 'bold' button that would allow the user to bold the text that was currently being displayed on the screen. However, I had difficulty in the beginning finding how to do this as there I was unsure which function in the UILabel class could modify the text to make bold. Instead, I settled on more useful idea of hiding and showing the text in case the user did not want to see it.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Joshua Izquierdo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
